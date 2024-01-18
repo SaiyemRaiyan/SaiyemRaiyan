@@ -6,6 +6,7 @@
 
 - 👑 I'm skilled in html, css & javascript, c++
 - 🔭 I’m currently learning react.js, node.js, Machine Learning, NLP
+-     W3Schools: https://www.w3schools.com/
 - 🌱 I’m passionate about frontend developement, UI/UX and Machine Learning
 - 📫 How to reach me: saiyemraiyan448@gmail.com
 
