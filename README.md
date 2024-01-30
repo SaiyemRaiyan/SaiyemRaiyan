@@ -62,5 +62,3 @@ A confidence works everytime on my mind that is -"If someone can do, I can do! I
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiyemRaiyan&theme=blue_green)
 
-## Snake Eatting my Contribution
-![snake gif](https://github.com/SaiyemRaiyan/SaiyemRaiyan/blob/output/snake.svg)
