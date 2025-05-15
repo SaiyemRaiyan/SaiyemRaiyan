@@ -1,6 +1,6 @@
 
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<h2 align="left">Hi 👋! My name is Md Saiyem Raiyan and I'm an undergraduate student, from North South University</h2>
+<h2 align="left">Hi 👋! My name is Md Saiyem Raiyan and I'm an Graduate student, from North South University, Currently work as a Software Developer and Research Fellow </h2>
 
 📖 Overview
 
