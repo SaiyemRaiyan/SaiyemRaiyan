@@ -15,9 +15,13 @@
 Hello. Welcome to my profile.
 Assalamu Allaikum wa rahmatullahi wabarakatu.
 
-I am a very friendly, communicative, creative, and hardworking person and I love to show my talent and creativity through my works. I'm interested on AI (Artificial Intelligence) based work and currently I'm learning about Machine Learning, Deep Learning, Natural Language Processing. I'm also working as a Frontend developer and learning web development eventually software development project.
+I am a friendly, communicative, and creative professional with a strong passion for technology and innovation. My hardworking nature drives me to constantly learn and showcase my talents through impactful work.
 
-A confidence works everytime on my mind that is -"If someone can do, I can do! If no one can do, I can do!
+Currently, I am deeply interested in Artificial Intelligence (AI) and actively expanding my knowledge in Machine Learning, Deep Learning, and Natural Language Processing (NLP). Alongside my AI pursuits, I work as a Web Developer, honing my skills in web development while gradually transitioning into full-stack and software development projects.
+
+As a first-class Computer Science graduate, I’ve built a dynamic career as a Software Developer and AI Engineer, crafting tailored solutions for diverse challenges. My work spans full-stack development and end-to-end AI systems. I am a little bit proficient in Python, C++, Java, and modern web technologies. A relentless innovator and AI Researcher, I’m passionate about driving impact through technology. I thrive in collaborative environments where creativity meets problem-solving, and I am always eager to take on new challenges that push the boundaries of what technology can achieve. Let’s connect and explore opportunities to collaborate on the next frontier of tech!
+
+A confidence works every time in my mind that is -"If someone can do it, I can do it! If no one can do it, I can do it!"
 
 
 ## ⚡ Languages I Use:
